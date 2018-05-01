@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "splash": {
+     "image": "./assets/intro_pigs.png",
+     "resizeMode": "cover"
+}
+  }
+}

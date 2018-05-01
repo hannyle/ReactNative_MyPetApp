@@ -1,0 +1,40 @@
+{
+  "name": "reactproject",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.13.1",
+    "jest-expo": "26.0.0",
+    "react-test-renderer": "16.3.0-alpha.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^6.3.1",
+    "expo": "^26.0.0",
+    "firebase": "^4.13.1",
+    "react": "16.3.0-alpha.1",
+    "react-native": "0.54.0",
+    "react-native-animatable": "^1.2.4",
+    "react-native-collapsible": "^0.11.1",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-dropdown": "0.0.6",
+    "react-native-dropdown-latest": "0.0.8",
+    "react-native-elements": "^0.19.1",
+    "react-native-expandable-view": "^0.1.6",
+    "react-native-material-ui": "^1.22.2",
+    "react-native-modal": "^5.4.0",
+    "react-native-sound": "^0.10.9",
+    "react-native-toolbar-component": "0.0.1",
+    "react-native-vector-icons": "^4.6.0"
+  }
+}
